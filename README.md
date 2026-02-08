@@ -72,7 +72,7 @@ src/
 
 ### Installation
 
-1. Clone the repository from GitHub: git clone <your-github-repository-link>
+1. Clone the repository from GitHub: git clone <https://github.com/rotichiank-collab/Personal-project-showcase-app.git>
 2. Navigate into the project directory: cd project-showcase
 3. Install the project dependencies: npm install
 4. Start the development server: npm run dev
